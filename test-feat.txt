@@ -3,3 +3,4 @@ new feat
 third feat
 
 feat B
+feat A
